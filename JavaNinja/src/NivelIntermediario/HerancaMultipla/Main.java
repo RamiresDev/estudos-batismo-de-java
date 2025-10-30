@@ -1,7 +1,7 @@
 package NivelIntermediario.HerancaMultipla;
 
 public class Main {
-    static void main(){
+     public static void main(){
 
         // Obj Uchiha
         Uchiha sasuke = new Uchiha();
