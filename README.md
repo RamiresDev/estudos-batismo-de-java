@@ -1,12 +1,13 @@
-# Batismo-de-Java
-Curso Batismo de Java
+# ☕ Estudos de Java – Curso Batismo de Java
 
-## Desafios
+Repositório criado durante o curso **Batismo de Java**, utilizado como base de estudos práticos.  
+Contém códigos comentados e exercícios que registram minha evolução nos conceitos fundamentais da linguagem Java.
 
-- Nível Básico
+📘 **Conteúdos abordados:**
+- Variáveis e tipos de dados  
+- Condicionais e estruturas de repetição  
+- Métodos e escopo  
+- Entrada de dados com Scanner  
+- Sobrecarga e validação de dados
 
-| Desafios | Resolução |
-|----------|-----------|
-|Desafio 01|[Ver](JavaNinja/src/NivelBasico/Desafio01)|
-| Desafio 02 | [Ver](JavaNinja/src/NivelBasico/Desafio02/CadastroDeNinjas.java)|
----
+🧠 Este repositório é mantido como registro de aprendizado e consulta pessoal.
