@@ -25,5 +25,10 @@ public class Main {
         Uchiha itachi = new Uchiha("Itachi Uchiha", "Konoha", 29);
         itachi.habilidadeEspecial();
 
+        // obj uchiha 3
+        Uchiha madara = new Uchiha("Madara Uchiha", "Konoha", 60);
+        madara.habilidadeEspecial();
+        madara.estrategiaDeBatalhaNinja();
+        madara.inteligenciaDeCombate(135);
     }
 }

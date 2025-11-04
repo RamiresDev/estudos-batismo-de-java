@@ -37,4 +37,20 @@ public class Ninja implements habilidadesNinja {
         this.numeroDeMissoesConcluidas = numeroDeMissoesConcluidas;
         this.rank = rank;
     }
+
+    // Sobrecarga de metodo - inteligencia de combate (metodo padrão)
+    public void inteligenciaDeCombate() {
+    System.out.println("Meu nome é: "+nome+" e essa é minha Inteligência de combate");
+    }
+
+    // Sobrecarga de metodo
+    public void inteligenciaDeCombate(int qi) {
+        if (qi == 150) {
+            System.out.println("Seu QI é: "+qi+" e você é um gênio");
+        } else if (qi >= 130 && qi < 150) {
+            System.out.println("Seu QI é: "+qi+" e você é um ninja promissor!");
+        } else {
+            System.out.println("Seu QI é: "+qi+" e você precisa treinar mais suas estratégias");
+        }
+    }
 }
